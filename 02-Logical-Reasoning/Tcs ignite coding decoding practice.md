@@ -747,3 +747,4 @@ What is the code for the word 'she'?
 ---
 
 *Tip: For letter-shift and mirror-coding questions, write out the alphabet A-Z on paper and mark the shift/mirror pairs — it makes solving these under time pressure much faster.*
+
